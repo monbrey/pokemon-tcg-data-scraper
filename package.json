@@ -1,0 +1,18 @@
+{
+  "name": "pokemon-tcg-data-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.12",
+    "@types/node-fetch": "^2.5.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "hyntax": "^1.1.0",
+    "jsdom": "^15.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
